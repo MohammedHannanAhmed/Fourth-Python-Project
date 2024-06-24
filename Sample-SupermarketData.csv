@@ -1,0 +1,550 @@
+Customer ID,Customer Age,Customer Gender,Product Subcategory,Date,Quantity Purchased
+1,69,Female,Dairy,2022-08-20,3
+1,69,Female,Beverages,2022-08-20,2
+1,69,Female,Dairy,2022-08-20,2
+1,69,Female,Fruits,2022-08-20,12
+1,69,Female,Beverages,2022-08-20,5
+1,69,Female,Vegetables,2022-08-20,17
+1,69,Female,Bakery,2022-08-20,13
+2,50,Male,Cleaning Supplies,2023-11-23,6
+3,62,Female,Bakery,2022-09-22,9
+3,62,Female,Bakery,2022-09-22,14
+3,62,Female,Bakery,2022-09-22,19
+3,62,Female,Dairy,2022-09-22,13
+3,62,Female,Cleaning Supplies,2022-09-22,5
+3,62,Female,Seafood,2022-09-22,11
+3,62,Female,Seafood,2022-09-22,20
+3,62,Female,Vegetables,2022-09-22,13
+3,62,Female,Frozen Foods,2022-09-22,8
+4,59,Male,Seafood,2024-03-01,6
+4,59,Male,Meat,2024-03-01,1
+4,59,Male,Beverages,2024-03-01,1
+4,59,Male,Fruits,2024-03-01,4
+4,59,Male,Seafood,2024-03-01,15
+4,59,Male,Vegetables,2024-03-01,3
+5,74,Male,Cleaning Supplies,2022-08-05,9
+5,74,Male,Cleaning Supplies,2022-08-05,17
+5,74,Male,Dairy,2022-08-05,15
+5,74,Male,Cleaning Supplies,2022-08-05,3
+5,74,Male,Meat,2022-08-05,3
+5,74,Male,Fruits,2022-08-05,2
+5,74,Male,Meat,2022-08-05,8
+5,74,Male,Cleaning Supplies,2022-08-05,16
+5,74,Male,Snacks,2022-08-05,11
+6,55,Female,Vegetables,2023-06-09,2
+6,55,Female,Meat,2023-06-09,1
+7,29,Male,Cleaning Supplies,2024-02-22,18
+7,29,Male,Fruits,2024-02-22,5
+7,29,Male,Fruits,2024-02-22,11
+7,29,Male,Seafood,2024-02-22,4
+7,29,Male,Frozen Foods,2024-02-22,4
+7,29,Male,Meat,2024-02-22,9
+7,29,Male,Fruits,2024-02-22,15
+7,29,Male,Vegetables,2024-02-22,14
+8,55,Female,Bakery,2023-05-14,13
+8,55,Female,Frozen Foods,2023-05-14,12
+8,55,Female,Beverages,2023-05-14,8
+9,20,Male,Seafood,2024-06-06,14
+9,20,Male,Snacks,2024-06-06,11
+9,20,Male,Cleaning Supplies,2024-06-06,1
+9,20,Male,Vegetables,2024-06-06,3
+9,20,Male,Fruits,2024-06-06,6
+9,20,Male,Snacks,2024-06-06,18
+9,20,Male,Vegetables,2024-06-06,18
+10,46,Male,Dairy,2024-05-01,18
+10,46,Male,Dairy,2024-05-01,6
+10,46,Male,Cleaning Supplies,2024-05-01,10
+10,46,Male,Seafood,2024-05-01,12
+10,46,Male,Cleaning Supplies,2024-05-01,8
+10,46,Male,Fruits,2024-05-01,13
+10,46,Male,Frozen Foods,2024-05-01,4
+10,46,Male,Snacks,2024-05-01,20
+10,46,Male,Dairy,2024-05-01,18
+10,46,Male,Dairy,2024-05-01,11
+11,28,Female,Frozen Foods,2023-05-08,2
+11,28,Female,Fruits,2023-05-08,8
+11,28,Female,Fruits,2023-05-08,2
+11,28,Female,Cleaning Supplies,2023-05-08,5
+11,28,Female,Dairy,2023-05-08,5
+11,28,Female,Dairy,2023-05-08,10
+11,28,Female,Dairy,2023-05-08,9
+11,28,Female,Cleaning Supplies,2023-05-08,4
+11,28,Female,Snacks,2023-05-08,12
+12,70,Female,Bakery,2023-09-21,2
+12,70,Female,Bakery,2023-09-21,2
+13,46,Female,Meat,2023-08-02,10
+13,46,Female,Dairy,2023-08-02,6
+13,46,Female,Cleaning Supplies,2023-08-02,12
+14,55,Male,Meat,2023-01-11,15
+14,55,Male,Vegetables,2023-01-11,13
+14,55,Male,Frozen Foods,2023-01-11,20
+15,74,Female,Cleaning Supplies,2023-10-30,16
+15,74,Female,Fruits,2023-10-30,17
+15,74,Female,Dairy,2023-10-30,16
+15,74,Female,Cleaning Supplies,2023-10-30,2
+15,74,Female,Vegetables,2023-10-30,15
+15,74,Female,Dairy,2023-10-30,10
+16,39,Male,Snacks,2022-11-16,17
+16,39,Male,Dairy,2022-11-16,19
+16,39,Male,Seafood,2022-11-16,7
+16,39,Male,Dairy,2022-11-16,7
+16,39,Male,Beverages,2022-11-16,9
+16,39,Male,Meat,2022-11-16,12
+16,39,Male,Vegetables,2022-11-16,17
+16,39,Male,Cleaning Supplies,2022-11-16,1
+17,61,Male,Dairy,2022-08-30,17
+17,61,Male,Beverages,2022-08-30,5
+17,61,Male,Meat,2022-08-30,10
+17,61,Male,Dairy,2022-08-30,12
+17,61,Male,Meat,2022-08-30,8
+17,61,Male,Beverages,2022-08-30,3
+17,61,Male,Bakery,2022-08-30,16
+18,61,Male,Bakery,2023-07-14,1
+18,61,Male,Snacks,2023-07-14,4
+18,61,Male,Bakery,2023-07-14,14
+18,61,Male,Frozen Foods,2023-07-14,2
+18,61,Male,Cleaning Supplies,2023-07-14,16
+18,61,Male,Beverages,2023-07-14,9
+19,57,Male,Cleaning Supplies,2023-05-30,17
+19,57,Male,Meat,2023-05-30,13
+19,57,Male,Cleaning Supplies,2023-05-30,12
+19,57,Male,Snacks,2023-05-30,13
+19,57,Male,Beverages,2023-05-30,9
+19,57,Male,Beverages,2023-05-30,13
+20,41,Female,Beverages,2022-07-31,13
+20,41,Female,Bakery,2022-07-31,4
+20,41,Female,Beverages,2022-07-31,12
+20,41,Female,Seafood,2022-07-31,20
+20,41,Female,Vegetables,2022-07-31,5
+20,41,Female,Snacks,2022-07-31,13
+20,41,Female,Seafood,2022-07-31,20
+20,41,Female,Frozen Foods,2022-07-31,1
+21,52,Male,Cleaning Supplies,2022-09-20,14
+21,52,Male,Beverages,2022-09-20,12
+21,52,Male,Seafood,2022-09-20,9
+21,52,Male,Vegetables,2022-09-20,15
+21,52,Male,Meat,2022-09-20,2
+21,52,Male,Snacks,2022-09-20,6
+21,52,Male,Fruits,2022-09-20,8
+21,52,Male,Beverages,2022-09-20,17
+21,52,Male,Beverages,2022-09-20,3
+21,52,Male,Vegetables,2022-09-20,10
+22,30,Male,Fruits,2024-02-11,18
+22,30,Male,Meat,2024-02-11,2
+23,75,Female,Dairy,2023-09-24,19
+23,75,Female,Snacks,2023-09-24,4
+23,75,Female,Dairy,2023-09-24,10
+23,75,Female,Meat,2023-09-24,11
+23,75,Female,Seafood,2023-09-24,10
+23,75,Female,Frozen Foods,2023-09-24,19
+23,75,Female,Meat,2023-09-24,17
+23,75,Female,Fruits,2023-09-24,13
+23,75,Female,Frozen Foods,2023-09-24,12
+24,75,Male,Bakery,2023-11-26,14
+24,75,Male,Fruits,2023-11-26,18
+24,75,Male,Cleaning Supplies,2023-11-26,18
+25,35,Male,Snacks,2023-07-03,5
+25,35,Male,Bakery,2023-07-03,6
+25,35,Male,Snacks,2023-07-03,6
+25,35,Male,Meat,2023-07-03,17
+25,35,Male,Fruits,2023-07-03,9
+26,55,Female,Beverages,2023-12-17,7
+26,55,Female,Seafood,2023-12-17,19
+26,55,Female,Frozen Foods,2023-12-17,1
+27,36,Female,Fruits,2023-07-29,19
+27,36,Female,Fruits,2023-07-29,10
+27,36,Female,Bakery,2023-07-29,5
+27,36,Female,Fruits,2023-07-29,13
+27,36,Female,Frozen Foods,2023-07-29,10
+28,70,Male,Bakery,2024-05-23,13
+28,70,Male,Fruits,2024-05-23,4
+28,70,Male,Fruits,2024-05-23,1
+28,70,Male,Seafood,2024-05-23,12
+28,70,Male,Vegetables,2024-05-23,10
+28,70,Male,Frozen Foods,2024-05-23,17
+28,70,Male,Bakery,2024-05-23,20
+29,61,Female,Seafood,2023-08-21,6
+29,61,Female,Fruits,2023-08-21,4
+29,61,Female,Vegetables,2023-08-21,20
+29,61,Female,Fruits,2023-08-21,12
+30,67,Male,Bakery,2023-12-12,17
+30,67,Male,Frozen Foods,2023-12-12,6
+30,67,Male,Seafood,2023-12-12,11
+31,75,Male,Bakery,2022-09-18,18
+32,66,Male,Snacks,2024-06-14,8
+32,66,Male,Dairy,2024-06-14,10
+32,66,Male,Cleaning Supplies,2024-06-14,3
+32,66,Male,Meat,2024-06-14,9
+32,66,Male,Dairy,2024-06-14,4
+32,66,Male,Vegetables,2024-06-14,3
+32,66,Male,Seafood,2024-06-14,7
+32,66,Male,Frozen Foods,2024-06-14,12
+32,66,Male,Fruits,2024-06-14,20
+32,66,Male,Beverages,2024-06-14,7
+33,25,Male,Seafood,2024-03-14,6
+33,25,Male,Vegetables,2024-03-14,1
+33,25,Male,Fruits,2024-03-14,7
+33,25,Male,Snacks,2024-03-14,5
+33,25,Male,Fruits,2024-03-14,19
+33,25,Male,Beverages,2024-03-14,9
+33,25,Male,Dairy,2024-03-14,13
+33,25,Male,Snacks,2024-03-14,3
+33,25,Male,Vegetables,2024-03-14,20
+33,25,Male,Dairy,2024-03-14,6
+34,27,Male,Snacks,2023-10-08,7
+34,27,Male,Fruits,2023-10-08,3
+34,27,Male,Beverages,2023-10-08,15
+34,27,Male,Vegetables,2023-10-08,5
+34,27,Male,Bakery,2023-10-08,20
+35,50,Male,Bakery,2023-08-26,4
+35,50,Male,Seafood,2023-08-26,4
+35,50,Male,Frozen Foods,2023-08-26,7
+35,50,Male,Meat,2023-08-26,1
+35,50,Male,Cleaning Supplies,2023-08-26,3
+35,50,Male,Fruits,2023-08-26,18
+35,50,Male,Vegetables,2023-08-26,8
+36,32,Male,Cleaning Supplies,2024-01-25,4
+36,32,Male,Dairy,2024-01-25,5
+36,32,Male,Dairy,2024-01-25,7
+36,32,Male,Frozen Foods,2024-01-25,3
+36,32,Male,Bakery,2024-01-25,5
+36,32,Male,Seafood,2024-01-25,14
+36,32,Male,Vegetables,2024-01-25,13
+36,32,Male,Seafood,2024-01-25,13
+37,28,Male,Frozen Foods,2022-07-23,11
+37,28,Male,Seafood,2022-07-23,12
+37,28,Male,Vegetables,2022-07-23,12
+37,28,Male,Vegetables,2022-07-23,20
+37,28,Male,Dairy,2022-07-23,8
+37,28,Male,Beverages,2022-07-23,8
+37,28,Male,Meat,2022-07-23,15
+37,28,Male,Frozen Foods,2022-07-23,12
+38,29,Female,Dairy,2023-01-30,15
+38,29,Female,Seafood,2023-01-30,11
+38,29,Female,Snacks,2023-01-30,12
+38,29,Female,Fruits,2023-01-30,6
+38,29,Female,Fruits,2023-01-30,4
+38,29,Female,Snacks,2023-01-30,10
+38,29,Female,Snacks,2023-01-30,19
+38,29,Female,Dairy,2023-01-30,9
+38,29,Female,Vegetables,2023-01-30,4
+39,70,Female,Dairy,2024-04-12,18
+39,70,Female,Seafood,2024-04-12,4
+39,70,Female,Snacks,2024-04-12,10
+40,68,Female,Meat,2023-10-28,18
+40,68,Female,Bakery,2023-10-28,11
+41,41,Male,Frozen Foods,2023-07-05,7
+41,41,Male,Vegetables,2023-07-05,15
+41,41,Male,Meat,2023-07-05,12
+41,41,Male,Beverages,2023-07-05,9
+41,41,Male,Bakery,2023-07-05,10
+41,41,Male,Vegetables,2023-07-05,11
+42,44,Female,Snacks,2023-07-19,2
+42,44,Female,Beverages,2023-07-19,15
+42,44,Female,Meat,2023-07-19,13
+42,44,Female,Beverages,2023-07-19,13
+42,44,Female,Dairy,2023-07-19,9
+42,44,Female,Fruits,2023-07-19,13
+43,24,Male,Dairy,2022-08-21,2
+43,24,Male,Cleaning Supplies,2022-08-21,12
+43,24,Male,Beverages,2022-08-21,11
+43,24,Male,Vegetables,2022-08-21,15
+43,24,Male,Dairy,2022-08-21,16
+44,59,Male,Bakery,2024-01-29,15
+44,59,Male,Beverages,2024-01-29,11
+44,59,Male,Bakery,2024-01-29,3
+44,59,Male,Cleaning Supplies,2024-01-29,3
+44,59,Male,Cleaning Supplies,2024-01-29,16
+44,59,Male,Frozen Foods,2024-01-29,9
+44,59,Male,Dairy,2024-01-29,11
+44,59,Male,Dairy,2024-01-29,2
+45,54,Male,Fruits,2024-06-08,14
+45,54,Male,Meat,2024-06-08,4
+45,54,Male,Dairy,2024-06-08,19
+45,54,Male,Cleaning Supplies,2024-06-08,5
+45,54,Male,Vegetables,2024-06-08,17
+45,54,Male,Meat,2024-06-08,18
+45,54,Male,Beverages,2024-06-08,10
+46,58,Male,Beverages,2023-04-18,1
+46,58,Male,Dairy,2023-04-18,17
+46,58,Male,Meat,2023-04-18,2
+46,58,Male,Bakery,2023-04-18,5
+46,58,Male,Frozen Foods,2023-04-18,6
+46,58,Male,Seafood,2023-04-18,6
+47,28,Female,Vegetables,2023-01-10,15
+47,28,Female,Vegetables,2023-01-10,7
+47,28,Female,Frozen Foods,2023-01-10,3
+47,28,Female,Frozen Foods,2023-01-10,19
+47,28,Female,Vegetables,2023-01-10,14
+47,28,Female,Meat,2023-01-10,4
+48,46,Female,Snacks,2024-02-29,2
+48,46,Female,Meat,2024-02-29,12
+48,46,Female,Bakery,2024-02-29,7
+48,46,Female,Bakery,2024-02-29,3
+48,46,Female,Seafood,2024-02-29,13
+49,42,Male,Bakery,2023-02-16,7
+50,21,Male,Snacks,2024-03-08,12
+50,21,Male,Meat,2024-03-08,1
+50,21,Male,Dairy,2024-03-08,5
+50,21,Male,Seafood,2024-03-08,1
+50,21,Male,Cleaning Supplies,2024-03-08,3
+50,21,Male,Bakery,2024-03-08,11
+51,40,Male,Frozen Foods,2024-03-23,4
+51,40,Male,Cleaning Supplies,2024-03-23,16
+51,40,Male,Dairy,2024-03-23,7
+51,40,Male,Fruits,2024-03-23,2
+51,40,Male,Dairy,2024-03-23,11
+51,40,Male,Snacks,2024-03-23,12
+51,40,Male,Cleaning Supplies,2024-03-23,11
+51,40,Male,Beverages,2024-03-23,11
+51,40,Male,Fruits,2024-03-23,8
+51,40,Male,Dairy,2024-03-23,19
+52,66,Male,Cleaning Supplies,2024-06-08,18
+52,66,Male,Seafood,2024-06-08,17
+52,66,Male,Snacks,2024-06-08,11
+52,66,Male,Beverages,2024-06-08,13
+52,66,Male,Meat,2024-06-08,3
+52,66,Male,Meat,2024-06-08,19
+52,66,Male,Dairy,2024-06-08,3
+53,53,Female,Beverages,2023-08-06,4
+53,53,Female,Snacks,2023-08-06,11
+53,53,Female,Seafood,2023-08-06,13
+53,53,Female,Frozen Foods,2023-08-06,15
+53,53,Female,Snacks,2023-08-06,7
+53,53,Female,Bakery,2023-08-06,16
+53,53,Female,Bakery,2023-08-06,7
+54,62,Female,Cleaning Supplies,2024-02-26,13
+54,62,Female,Beverages,2024-02-26,6
+54,62,Female,Frozen Foods,2024-02-26,19
+54,62,Female,Beverages,2024-02-26,18
+54,62,Female,Vegetables,2024-02-26,1
+55,33,Male,Meat,2023-06-08,3
+55,33,Male,Dairy,2023-06-08,4
+55,33,Male,Vegetables,2023-06-08,4
+55,33,Male,Bakery,2023-06-08,11
+56,69,Female,Cleaning Supplies,2022-12-01,4
+56,69,Female,Frozen Foods,2022-12-01,7
+56,69,Female,Bakery,2022-12-01,19
+56,69,Female,Snacks,2022-12-01,13
+56,69,Female,Meat,2022-12-01,13
+57,26,Female,Meat,2023-05-12,2
+57,26,Female,Meat,2023-05-12,18
+57,26,Female,Bakery,2023-05-12,16
+58,62,Male,Fruits,2023-09-23,2
+58,62,Male,Frozen Foods,2023-09-23,14
+58,62,Male,Seafood,2023-09-23,10
+58,62,Male,Seafood,2023-09-23,20
+58,62,Male,Beverages,2023-09-23,2
+59,58,Male,Fruits,2023-12-19,20
+59,58,Male,Seafood,2023-12-19,6
+59,58,Male,Vegetables,2023-12-19,16
+59,58,Male,Fruits,2023-12-19,13
+59,58,Male,Vegetables,2023-12-19,15
+60,46,Male,Meat,2023-05-15,5
+60,46,Male,Fruits,2023-05-15,14
+60,46,Male,Fruits,2023-05-15,11
+60,46,Male,Snacks,2023-05-15,13
+60,46,Male,Fruits,2023-05-15,11
+60,46,Male,Beverages,2023-05-15,2
+60,46,Male,Fruits,2023-05-15,14
+60,46,Male,Frozen Foods,2023-05-15,16
+60,46,Male,Bakery,2023-05-15,20
+61,33,Female,Seafood,2023-10-16,9
+62,74,Male,Bakery,2024-06-22,2
+62,74,Male,Bakery,2024-06-22,11
+62,74,Male,Vegetables,2024-06-22,11
+62,74,Male,Bakery,2024-06-22,7
+62,74,Male,Beverages,2024-06-22,20
+62,74,Male,Dairy,2024-06-22,8
+62,74,Male,Cleaning Supplies,2024-06-22,18
+63,37,Male,Fruits,2022-08-04,13
+63,37,Male,Fruits,2022-08-04,9
+63,37,Male,Vegetables,2022-08-04,18
+63,37,Male,Meat,2022-08-04,9
+64,31,Male,Seafood,2023-05-29,19
+65,32,Male,Bakery,2024-05-02,2
+65,32,Male,Meat,2024-05-02,18
+65,32,Male,Dairy,2024-05-02,4
+65,32,Male,Fruits,2024-05-02,17
+66,75,Female,Dairy,2023-03-25,20
+66,75,Female,Frozen Foods,2023-03-25,3
+66,75,Female,Dairy,2023-03-25,20
+67,42,Male,Fruits,2023-04-12,13
+68,39,Female,Meat,2023-05-15,8
+68,39,Female,Snacks,2023-05-15,2
+68,39,Female,Vegetables,2023-05-15,1
+68,39,Female,Bakery,2023-05-15,14
+68,39,Female,Bakery,2023-05-15,8
+68,39,Female,Bakery,2023-05-15,11
+68,39,Female,Dairy,2023-05-15,18
+68,39,Female,Meat,2023-05-15,13
+69,22,Female,Frozen Foods,2023-07-09,9
+69,22,Female,Bakery,2023-07-09,6
+69,22,Female,Meat,2023-07-09,16
+69,22,Female,Vegetables,2023-07-09,4
+69,22,Female,Snacks,2023-07-09,13
+69,22,Female,Seafood,2023-07-09,17
+69,22,Female,Vegetables,2023-07-09,18
+69,22,Female,Beverages,2023-07-09,15
+69,22,Female,Frozen Foods,2023-07-09,18
+69,22,Female,Seafood,2023-07-09,17
+70,74,Female,Fruits,2023-08-09,5
+70,74,Female,Beverages,2023-08-09,7
+70,74,Female,Dairy,2023-08-09,12
+71,66,Male,Vegetables,2023-04-15,4
+71,66,Male,Bakery,2023-04-15,5
+71,66,Male,Cleaning Supplies,2023-04-15,12
+71,66,Male,Dairy,2023-04-15,2
+72,71,Male,Beverages,2022-10-25,18
+72,71,Male,Fruits,2022-10-25,5
+72,71,Male,Snacks,2022-10-25,5
+72,71,Male,Dairy,2022-10-25,9
+72,71,Male,Meat,2022-10-25,16
+73,68,Male,Beverages,2023-08-19,19
+73,68,Male,Seafood,2023-08-19,9
+74,65,Male,Beverages,2023-06-27,8
+74,65,Male,Snacks,2023-06-27,15
+75,66,Male,Dairy,2024-04-22,15
+75,66,Male,Cleaning Supplies,2024-04-22,2
+75,66,Male,Meat,2024-04-22,19
+75,66,Male,Vegetables,2024-04-22,6
+75,66,Male,Beverages,2024-04-22,9
+76,26,Male,Vegetables,2024-03-23,10
+76,26,Male,Vegetables,2024-03-23,17
+76,26,Male,Frozen Foods,2024-03-23,5
+76,26,Male,Bakery,2024-03-23,15
+76,26,Male,Fruits,2024-03-23,18
+77,39,Female,Beverages,2023-02-15,18
+77,39,Female,Beverages,2023-02-15,9
+77,39,Female,Cleaning Supplies,2023-02-15,14
+77,39,Female,Snacks,2023-02-15,20
+78,58,Female,Dairy,2023-02-27,13
+78,58,Female,Vegetables,2023-02-27,2
+79,62,Female,Bakery,2023-11-20,18
+79,62,Female,Frozen Foods,2023-11-20,20
+79,62,Female,Vegetables,2023-11-20,5
+80,44,Female,Seafood,2023-12-23,5
+80,44,Female,Fruits,2023-12-23,1
+80,44,Female,Dairy,2023-12-23,4
+81,52,Male,Bakery,2023-04-05,12
+81,52,Male,Dairy,2023-04-05,19
+81,52,Male,Dairy,2023-04-05,20
+81,52,Male,Dairy,2023-04-05,14
+81,52,Male,Frozen Foods,2023-04-05,7
+81,52,Male,Frozen Foods,2023-04-05,12
+81,52,Male,Frozen Foods,2023-04-05,2
+81,52,Male,Cleaning Supplies,2023-04-05,8
+81,52,Male,Dairy,2023-04-05,5
+82,30,Female,Bakery,2023-09-11,14
+82,30,Female,Vegetables,2023-09-11,20
+82,30,Female,Snacks,2023-09-11,19
+82,30,Female,Seafood,2023-09-11,20
+82,30,Female,Meat,2023-09-11,15
+82,30,Female,Dairy,2023-09-11,18
+82,30,Female,Snacks,2023-09-11,7
+82,30,Female,Fruits,2023-09-11,18
+82,30,Female,Fruits,2023-09-11,1
+82,30,Female,Bakery,2023-09-11,16
+83,44,Female,Meat,2022-12-28,3
+83,44,Female,Snacks,2022-12-28,6
+83,44,Female,Seafood,2022-12-28,15
+83,44,Female,Cleaning Supplies,2022-12-28,17
+83,44,Female,Cleaning Supplies,2022-12-28,1
+83,44,Female,Beverages,2022-12-28,13
+83,44,Female,Fruits,2022-12-28,15
+83,44,Female,Fruits,2022-12-28,16
+83,44,Female,Vegetables,2022-12-28,18
+84,33,Male,Fruits,2023-12-17,8
+85,57,Male,Meat,2022-08-10,13
+85,57,Male,Bakery,2022-08-10,3
+85,57,Male,Fruits,2022-08-10,17
+85,57,Male,Meat,2022-08-10,9
+85,57,Male,Frozen Foods,2022-08-10,2
+85,57,Male,Frozen Foods,2022-08-10,16
+85,57,Male,Meat,2022-08-10,17
+85,57,Male,Fruits,2022-08-10,14
+85,57,Male,Frozen Foods,2022-08-10,13
+86,19,Male,Fruits,2022-09-02,16
+86,19,Male,Meat,2022-09-02,3
+87,32,Female,Bakery,2023-07-28,3
+87,32,Female,Cleaning Supplies,2023-07-28,20
+87,32,Female,Cleaning Supplies,2023-07-28,6
+87,32,Female,Meat,2023-07-28,5
+87,32,Female,Beverages,2023-07-28,2
+87,32,Female,Cleaning Supplies,2023-07-28,16
+87,32,Female,Frozen Foods,2023-07-28,19
+88,52,Male,Frozen Foods,2024-02-29,12
+88,52,Male,Bakery,2024-02-29,8
+88,52,Male,Cleaning Supplies,2024-02-29,6
+88,52,Male,Vegetables,2024-02-29,10
+88,52,Male,Snacks,2024-02-29,2
+88,52,Male,Dairy,2024-02-29,14
+89,26,Male,Fruits,2023-06-08,1
+89,26,Male,Frozen Foods,2023-06-08,7
+89,26,Male,Snacks,2023-06-08,7
+89,26,Male,Seafood,2023-06-08,8
+90,67,Male,Fruits,2022-09-09,14
+90,67,Male,Beverages,2022-09-09,16
+91,45,Male,Snacks,2023-03-28,3
+91,45,Male,Bakery,2023-03-28,11
+91,45,Male,Frozen Foods,2023-03-28,3
+91,45,Male,Vegetables,2023-03-28,4
+91,45,Male,Meat,2023-03-28,5
+91,45,Male,Beverages,2023-03-28,12
+91,45,Male,Snacks,2023-03-28,19
+91,45,Male,Bakery,2023-03-28,7
+91,45,Male,Frozen Foods,2023-03-28,9
+92,74,Female,Snacks,2022-09-07,17
+92,74,Female,Snacks,2022-09-07,14
+92,74,Female,Beverages,2022-09-07,12
+92,74,Female,Beverages,2022-09-07,3
+92,74,Female,Fruits,2022-09-07,9
+92,74,Female,Vegetables,2022-09-07,17
+92,74,Female,Dairy,2022-09-07,3
+92,74,Female,Cleaning Supplies,2022-09-07,6
+92,74,Female,Fruits,2022-09-07,15
+92,74,Female,Vegetables,2022-09-07,11
+93,55,Male,Meat,2023-09-01,6
+93,55,Male,Cleaning Supplies,2023-09-01,11
+94,74,Female,Seafood,2022-12-24,7
+94,74,Female,Snacks,2022-12-24,1
+94,74,Female,Vegetables,2022-12-24,19
+94,74,Female,Beverages,2022-12-24,1
+94,74,Female,Meat,2022-12-24,5
+94,74,Female,Snacks,2022-12-24,2
+94,74,Female,Frozen Foods,2022-12-24,15
+95,40,Female,Fruits,2023-01-17,4
+95,40,Female,Meat,2023-01-17,11
+95,40,Female,Snacks,2023-01-17,16
+95,40,Female,Seafood,2023-01-17,19
+95,40,Female,Beverages,2023-01-17,18
+95,40,Female,Vegetables,2023-01-17,10
+95,40,Female,Meat,2023-01-17,8
+95,40,Female,Meat,2023-01-17,8
+96,42,Male,Vegetables,2022-09-21,14
+96,42,Male,Cleaning Supplies,2022-09-21,7
+96,42,Male,Fruits,2022-09-21,18
+97,31,Male,Vegetables,2024-02-21,1
+97,31,Male,Dairy,2024-02-21,19
+97,31,Male,Frozen Foods,2024-02-21,14
+97,31,Male,Vegetables,2024-02-21,6
+97,31,Male,Fruits,2024-02-21,15
+97,31,Male,Meat,2024-02-21,11
+98,55,Male,Seafood,2023-12-24,3
+98,55,Male,Beverages,2023-12-24,12
+98,55,Male,Meat,2023-12-24,12
+98,55,Male,Frozen Foods,2023-12-24,19
+98,55,Male,Cleaning Supplies,2023-12-24,1
+99,23,Female,Vegetables,2024-03-06,13
+99,23,Female,Bakery,2024-03-06,18
+99,23,Female,Fruits,2024-03-06,15
+99,23,Female,Fruits,2024-03-06,6
+99,23,Female,Vegetables,2024-03-06,3
+99,23,Female,Fruits,2024-03-06,17
+99,23,Female,Fruits,2024-03-06,6
+99,23,Female,Fruits,2024-03-06,4
+100,52,Male,Bakery,2024-03-08,2
+100,52,Male,Frozen Foods,2024-03-08,17
+100,52,Male,Beverages,2024-03-08,11
+100,52,Male,Seafood,2024-03-08,9
+100,52,Male,Frozen Foods,2024-03-08,17
