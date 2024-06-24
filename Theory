@@ -1,0 +1,35 @@
+Aim:
+The aim of this project is to analyze supermarket transaction data to extract insights about customer behavior and product sales. 
+This includes generating and visualizing data to understand trends and patterns in purchases, demographic distributions, and geographical 
+sales distributions.
+
+Packages Used:
+pandas: For data manipulation and analysis.
+numpy: For numerical operations and random data generation.
+random: For random selection of data elements.
+datetime: For handling dates and times.
+plotly.express: For creating interactive visualizations.
+
+
+
+Project Description:
+Data Generation:
+
+Simulates transaction data for 100 customers over the past two years.
+Each customer has attributes like age, gender, and multiple purchases.
+Purchases include product subcategories and quantities.
+
+
+The data is read back from the Excel file for analysis.
+Data Analysis and Visualization:
+
+Various interactive visualizations are created using Plotly Express:
+Bar Chart: Total quantity purchased by product subcategory.
+
+Pie Chart: Distribution of customers by gender.
+
+Bubble Chart: Quantity purchased by customer age and product subcategory.
+
+Sunburst Chart: Quantity purchased by product subcategory and gender.
+
+Choropleth Map: Quantity purchased by state.
